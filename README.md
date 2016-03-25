@@ -10,7 +10,3 @@ Then add this somewhere in your code.
     
     talib = Meteor.npmPackage( 'talib' );
     
-
-
-
-
