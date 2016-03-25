@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "talib": {
+      "version": "0.6.0"
+    }
+  }
+}
