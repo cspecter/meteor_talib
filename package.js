@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "talib": "^1.0.2"
+    "talib": "1.0.2"
 });
 
 Package.onUse( function( api ) {
