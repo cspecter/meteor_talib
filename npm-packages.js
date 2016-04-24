@@ -4,3 +4,4 @@ Meteor.npmPackage = function( npmPackage ) {
 };
 
 Talib = Npm.require( 'talib' );
+talib = Npm.require( 'talib' );
